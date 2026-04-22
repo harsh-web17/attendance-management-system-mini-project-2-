@@ -18,7 +18,7 @@ const corsOptions = {
 			'http://localhost:5173',
 			'http://localhost:3000',
 			// Add your Render frontend URL here, e.g.:
-			// 'https://quiet-gelato-7ebd64.netlify.app'
+			 'https://quiet-gelato-7ebd64.netlify.app'
 		];
 		if (!origin || allowedOrigins.indexOf(origin) !== -1) {
 			callback(null, true);
