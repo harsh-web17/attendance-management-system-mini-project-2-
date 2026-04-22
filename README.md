@@ -1,1 +1,0 @@
-# attendance-management-system-mini-project-2-
